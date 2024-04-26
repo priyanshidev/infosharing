@@ -6,7 +6,7 @@ const blog = () => {
       blogs Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae
       expedita, error illo laudantium commodi culpa dignissimos ipsum autem vel
       pariatur magnam maxime, reprehenderit quis nobis, blanditiis dolorum esse
-      sed quasi?
+      sed quasi?<p>iyuuuuuuuuuuu</p>
     </div>
   );
 };
