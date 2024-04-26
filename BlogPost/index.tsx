@@ -31,6 +31,33 @@ const BlogPost = () => {
       img: "/Image/mettingblog.png",
       userimg: "/Image/gentlemanimg1.jpg",
     },
+    {
+      username: "r/Indiangamers",
+      time: "2 days ago",
+      title: "Global Climate Summit Addresses Urgent Climate Action",
+      detail:
+        "Lorem ipsum dolor sit amet consectetur. Vestibulum ridiculus consectetur gravida maecenas. Cum vitae mi sit faucibus morbi nulla. Quis sed libero consectetur erat sed amet ipsum. Ut odio ultrices lacus duis convallis mauris nec amet.",
+      img: "/Image/socialmedia.png",
+      userimg: "/Image/gentlemanimg1.jpg",
+    },
+    {
+      username: "r/Indiangamers",
+      time: "2 days ago",
+      title: "Global Climate Summit Addresses Urgent Climate Action",
+      detail:
+        "Lorem ipsum dolor sit amet consectetur. Vestibulum ridiculus consectetur gravida maecenas. Cum vitae mi sit faucibus morbi nulla. Quis sed libero consectetur erat sed amet ipsum. Ut odio ultrices lacus duis convallis mauris nec amet.",
+      img: "/Image/leafBlog.png",
+      userimg: "/Image/gentlemanimg1.jpg",
+    },
+    {
+      username: "r/Indiangamers",
+      time: "2 days ago",
+      title: "Global Climate Summit Addresses Urgent Climate Action",
+      detail:
+        "Lorem ipsum dolor sit amet consectetur. Vestibulum ridiculus consectetur gravida maecenas. Cum vitae mi sit faucibus morbi nulla. Quis sed libero consectetur erat sed amet ipsum. Ut odio ultrices lacus duis convallis mauris nec amet.",
+      img: "/Image/mettingblog.png",
+      userimg: "/Image/gentlemanimg1.jpg",
+    },
   ];
   const topics = [{ text: "india" }, { text: "Architected" }];
   return (
